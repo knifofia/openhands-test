@@ -7,3 +7,4 @@ Serving at http://localhost:53909
 172.17.0.1 - - [10/Mar/2025 15:46:15] "GET /script.js HTTP/1.1" 200 -
 172.17.0.1 - - [10/Mar/2025 15:46:15] code 404, message File not found
 172.17.0.1 - - [10/Mar/2025 15:46:15] "GET /favicon.ico HTTP/1.1" 404 -
+172.17.0.1 - - [10/Mar/2025 15:48:17] "GET / HTTP/1.1" 200 -
