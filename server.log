@@ -1,0 +1,9 @@
+Serving at http://localhost:53909
+127.0.0.1 - - [10/Mar/2025 15:45:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2025 15:45:51] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [10/Mar/2025 15:45:51] "GET /script.js HTTP/1.1" 200 -
+172.17.0.1 - - [10/Mar/2025 15:46:15] "GET / HTTP/1.1" 200 -
+172.17.0.1 - - [10/Mar/2025 15:46:15] "GET /styles.css HTTP/1.1" 200 -
+172.17.0.1 - - [10/Mar/2025 15:46:15] "GET /script.js HTTP/1.1" 200 -
+172.17.0.1 - - [10/Mar/2025 15:46:15] code 404, message File not found
+172.17.0.1 - - [10/Mar/2025 15:46:15] "GET /favicon.ico HTTP/1.1" 404 -
