@@ -1,6 +1,6 @@
 # YouTube Channel Website
 
-This is a responsive website template for a YouTube channel. It includes sections for showcasing videos, about information, and contact details.
+This is a responsive website template for a YouTube channel. It includes sections for showcasing videos, about information, and contact details. The website is designed to be modern, user-friendly, and optimized for all devices.
 
 ## Features
 
